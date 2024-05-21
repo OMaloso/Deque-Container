@@ -2,7 +2,8 @@
 
 A deque container created for university paper on algorithms and data structures using C++. Was also my first use of and understanding of pointers.
 
-###Instructions:
+
+### Instructions:
 On opening of program, the following menu will be shown:
 
 1.Enqueue_Front
