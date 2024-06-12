@@ -6,14 +6,14 @@ A deque container created for university paper on algorithms and data structures
 ### Instructions:
 On opening of program, the following menu will be shown:
 
-1.Enqueue_Front
-2.Enqueue_Back
-3.Dequeue_Front
-4.Dequeue_Back
-5.Peek_Front
-6.Peek_Back
-7.IsEmpty
-8.Exit
+1.Enqueue_Front 
+2.Enqueue_Back 
+3.Dequeue_Front 
+4.Dequeue_Back 
+5.Peek_Front 
+6.Peek_Back 
+7.IsEmpty 
+8.Exit 
 
 Enter one of the above numbers to continue program.
 
